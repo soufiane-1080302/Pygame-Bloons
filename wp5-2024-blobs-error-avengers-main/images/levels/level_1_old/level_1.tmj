@@ -1,0 +1,131 @@
+{ "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"level_1_test.tmj"
+        }
+    },
+ "height":15,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1,
+            1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1,
+            1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1,
+            1, 1, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 1, 1,
+            1, 1, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 1, 1,
+            1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 2, 2, 1, 1,
+            1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 2, 2, 1, 1,
+            1, 1, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 1, 1,
+            1, 1, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 1, 1,
+            1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1,
+            1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1,
+            1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1,
+            1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+         "height":15,
+         "id":1,
+         "name":"tilemap",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":15,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":3,
+         "name":"waypoints",
+         "objects":[
+                {
+                 "height":0,
+                 "id":9,
+                 "name":"",
+                 "polyline":[
+                        {
+                         "x":577,
+                         "y":0
+                        }, 
+                        {
+                         "x":577,
+                         "y":575
+                        }, 
+                        {
+                         "x":144,
+                         "y":576
+                        }, 
+                        {
+                         "x":144,
+                         "y":383
+                        }, 
+                        {
+                         "x":385,
+                         "y":382
+                        }, 
+                        {
+                         "x":385,
+                         "y":189
+                        }, 
+                        {
+                         "x":144,
+                         "y":191
+                        }, 
+                        {
+                         "x":144,
+                         "y":0
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":578,
+                 "y":1
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":4,
+ "nextobjectid":10,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.11.0",
+ "tileheight":48,
+ "tilesets":[
+        {
+         "columns":1,
+         "firstgid":1,
+         "image":"..\/..\/..\/..\/..\/Users\/Vinvo\/Downloads\/kenney_tower-defense-top-down\/PNG\/Default size\/towerDefense_tile124.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"towerDefense_tile124",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":48,
+         "tilewidth":48
+        }, 
+        {
+         "columns":1,
+         "firstgid":2,
+         "image":"..\/..\/..\/..\/..\/Users\/Vinvo\/Downloads\/kenney_tower-defense-top-down\/PNG\/Default size\/towerDefense_tile236.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"towerDefense_tile236",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":48,
+         "tilewidth":48
+        }],
+ "tilewidth":48,
+ "type":"map",
+ "version":"1.10",
+ "width":15
+}
